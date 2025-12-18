@@ -146,5 +146,14 @@ class Program
         coffee.Pour();
         coffee.AddIngredients();
 
+        Console.WriteLine("---- CASE 1 ----");
+        MenuCoffee latte2 = new MakeCappuccino();
+        Coffee coffee1 = latte2.GetCoffee();
+
+        coffee1.BoilWater();
+        coffee1.BrewEspresso();
+        coffee1.Pour();
+        coffee1.AddIngredients();
+
     }
 }
