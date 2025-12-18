@@ -137,14 +137,14 @@ class Program
         cappuccino.MakeCoffee();
 
 
-        Console.WriteLine("---- Call in main ----");
-        MakeLatte latte1 = new MakeLatte();
-        Coffee coffee = latte1.GetCoffee();
+        // Console.WriteLine("---- Call in main ----");
+        // MakeLatte latte1 = new MakeLatte();
+        // Coffee coffee = latte1.GetCoffee();
 
-        coffee.BoilWater();
-        coffee.BrewEspresso();
-        coffee.Pour();
-        coffee.AddIngredients();
+        // coffee.BoilWater();
+        // coffee.BrewEspresso();
+        // coffee.Pour();
+        // coffee.AddIngredients();
 
         Console.WriteLine("---- CASE 1 ----");
         MenuCoffee latte2 = new MakeCappuccino();
