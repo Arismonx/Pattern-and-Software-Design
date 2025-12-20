@@ -278,15 +278,5 @@ class Program
         Shirt shirt2 = summerShirt; // shirt2 = summerShirt ทั้งสองคือตัวเดียวกัน shirt2 เลยสามารถเรียใช้ method ได้
         shirt2.FabricType();
         shirt2.SleeveStyle();
-
-        // SummerShirt summerShirt1 = new SummerShirt();
-        // SummerShirt shirt2 = new SummerShirt();
-        // shirt2 = summerShirt1;
-
-        // summerShirt1.x = "ssss";
-        // shirt2.x = "testx";
-
-        // Console.WriteLine(summerShirt1.x);
-        // Console.WriteLine(shirt2.x);
     }
 }
