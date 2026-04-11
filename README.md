@@ -6,7 +6,7 @@ This work was an assignment for the "Pattern and Software Design" course. The co
 > This repository is not yet complete and may be updated in the future.
 
 ### Report
-- [Pattern and Software Design PDF](/report_cos4311.pdf/)
+- [Pattern and Software Design PDF](/report.pdf/)
 
 ### Creational Patterns
 
