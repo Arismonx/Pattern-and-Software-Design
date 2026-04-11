@@ -5,6 +5,9 @@ This work was an assignment for the "Pattern and Software Design" course. The co
 > [!NOTE]
 > This repository is not yet complete and may be updated in the future.
 
+### Report
+- [Pattern and Software Design PDF](/report_cos4311.pdf/)
+
 ### Creational Patterns
 
 Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
